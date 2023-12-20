@@ -2,4 +2,6 @@
 void main(){
 int a,b,c;
 c=a+b;
+d=a-b;
+pro=a*b;
 }
